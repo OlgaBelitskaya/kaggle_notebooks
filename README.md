@@ -16,14 +16,9 @@
 
 # &#x1F4D1; &nbsp; [Notebooks](https://www.kaggle.com/olgabelitskaya/notebooks)
 
-## Digit Recognition Models #1
+* [ Digit Recognition Models #1](https://www.kaggle.com/olgabelitskaya/digit-recognition-models-1)
 
-* https://www.kaggle.com/olgabelitskaya/digit-recognition-models-1
-
-## Digit Recognition Models #2
-
-* https://www.kaggle.com/olgabelitskaya/digit-recognition-models-2
-* https://olgabelitskaya.github.io/kaggle_digits.html
+* [ Digit Recognition Models #2](https://www.kaggle.com/olgabelitskaya/digit-recognition-models-2)
 
 ## Digit Recognition Models #3
 
