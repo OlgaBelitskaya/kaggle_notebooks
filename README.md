@@ -1,22 +1,20 @@
-# &#x1F4D1; &nbsp;   Kaggle
+# &#x1F4D1; &nbsp; [Kaggle Profile](https://www.kaggle.com/olgabelitskaya)
 
 
-# Datasets
+# &#x1F4D1; &nbsp; [Datasets](https://www.kaggle.com/olgabelitskaya/datasets)
 
-* Flower Color Images &nbsp; [Kaggle Dataset &#x1F4D6;](https://www.kaggle.com/olgabelitskaya/flower-color-images)
+* [&#x1F4D6; &nbsp; Flower Color Images](https://www.kaggle.com/olgabelitskaya/flower-color-images)
 
-* SVHN Preprocessed Fragments &nbsp; [Kaggle Dataset &#x1F4D6;](https://www.kaggle.com/olgabelitskaya/svhn-preproccessed-fragments)
+* [&#x1F4D6; &nbsp; SVHN Preprocessed Fragments](https://www.kaggle.com/olgabelitskaya/svhn-preproccessed-fragments)
 
-* Classification of Handwritten Letters &nbsp; [Kaggle Dataset &#x1F4D6;](https://www.kaggle.com/olgabelitskaya/classification-of-handwritten-letters)
+* [&#x1F4D6; &nbsp; Classification of Handwritten Letters](https://www.kaggle.com/olgabelitskaya/classification-of-handwritten-letters)
 
-* Handwritten Letters 2 &nbsp; [Kaggle Dataset &#x1F4D6;](https://www.kaggle.com/olgabelitskaya/handwritten-letters-2)
+* [&#x1F4D6; &nbsp;Style Color Images](https://www.kaggle.com/olgabelitskaya/style-color-images)
 
-* Style Color Images &nbsp; [Kaggle Dataset &#x1F4D6;](https://www.kaggle.com/olgabelitskaya/style-color-images)
-
-* Traditional Decor Patterns &nbsp; [Kaggle Dataset &#x1F4D6;](https://www.kaggle.com/olgabelitskaya/traditional-decor-patterns)
+* [&#x1F4D6; &nbsp; Traditional Decor Patterns](https://www.kaggle.com/olgabelitskaya/traditional-decor-patterns)
 
 
-# Kernels
+# &#x1F4D1; &nbsp; [Notebooks](https://www.kaggle.com/olgabelitskaya/notebooks)
 
 ## Digit Recognition Models #1
 
