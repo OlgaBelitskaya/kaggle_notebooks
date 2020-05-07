@@ -47,7 +47,11 @@
 
 * [&#x1F4D6; House Prices: Advanced Regression Techniques](https://www.kaggle.com/olgabelitskaya/regressors)
 
-</details><details>
+</details>
+
+---
+
+<details>
 <summary> Style Transfer & Other Visualization Exercises</summary>
 
 * [&#x1F4D6; Mixed Styles](https://www.kaggle.com/olgabelitskaya/mixed-styles)
@@ -60,22 +64,37 @@
 
 * [&#x1F4D6; Plotting Exercises 2](https://www.kaggle.com/olgabelitskaya/plotting-exercises-2)
 
+* [&#x1F4D6; Plotting Exercises 3](https://www.kaggle.com/olgabelitskaya/plotting-exercises-3)
+
+* [&#x1F4D6; Plotting Exercises R](https://www.kaggle.com/olgabelitskaya/plotting-exercises-r)
+
+* [&#x1F4D6; Plotting Exercises R 2](https://www.kaggle.com/olgabelitskaya/plotting-exercises-r-2)
+
 </details>
 
-## Image Recognition
+---
+
+<details>
+<summary> Image Recognition
 
 * https://www.kaggle.com/olgabelitskaya/the-dataset-of-flower-images
+
 * https://www.kaggle.com/olgabelitskaya/the-data-set-of-flower-images-r
 
-
 * https://www.kaggle.com/olgabelitskaya/preprocessing-of-style-color-images
+
 * https://www.kaggle.com/olgabelitskaya/multi-label-classification-models
 
+</details>
 
+---
 
-## Image Generators
+<details>
+<summary> Image Generators
 
 * https://www.kaggle.com/olgabelitskaya/image-generator
 * https://www.kaggle.com/olgabelitskaya/image-generator-2
 * https://www.kaggle.com/olgabelitskaya/image-generator-3
 * https://www.kaggle.com/olgabelitskaya/image-generator-4
+
+<details>
