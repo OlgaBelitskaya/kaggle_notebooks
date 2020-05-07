@@ -75,22 +75,24 @@
 ---
 
 <details>
-<summary> Image Recognition
+<summary> Image Recognition</summary>
 
-* https://www.kaggle.com/olgabelitskaya/the-dataset-of-flower-images
+* [&#x1F4D6; The Dataset of Flower Images](https://www.kaggle.com/olgabelitskaya/the-dataset-of-flower-images)
 
-* https://www.kaggle.com/olgabelitskaya/the-data-set-of-flower-images-r
+* [&#x1F4D6; The Data Set of Flower Images (R)](https://www.kaggle.com/olgabelitskaya/the-data-set-of-flower-images-r)
 
-* https://www.kaggle.com/olgabelitskaya/preprocessing-of-style-color-images
+* [&#x1F4D6; Flower Images. Keras Applications](https://www.kaggle.com/olgabelitskaya/flower-images-keras-applications)
 
-* https://www.kaggle.com/olgabelitskaya/multi-label-classification-models
+* [&#x1F4D6; Preprocessing of Style Color Images](https://www.kaggle.com/olgabelitskaya/preprocessing-of-style-color-images)
+
+* [&#x1F4D6; Multi-Label Classification Models](https://www.kaggle.com/olgabelitskaya/multi-label-classification-models)
 
 </details>
 
 ---
 
 <details>
-<summary> Image Generators
+<summary> Image Generators</summary>
 
 * https://www.kaggle.com/olgabelitskaya/image-generator
 * https://www.kaggle.com/olgabelitskaya/image-generator-2
