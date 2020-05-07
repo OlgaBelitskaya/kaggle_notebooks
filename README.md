@@ -1,5 +1,7 @@
 # &#x1F4D1; &nbsp; [Kaggle Profile](https://www.kaggle.com/olgabelitskaya)
 
+## Contents
+
 
 # &#x1F4D1; &nbsp; [Datasets](https://www.kaggle.com/olgabelitskaya/datasets)
 
@@ -22,7 +24,10 @@
 
 # &#x1F4D1; &nbsp; [Notebooks](https://www.kaggle.com/olgabelitskaya/notebooks)
 
-## Classic Examples
+## Contents
+
+<details>
+<summary>Classic Examples</summary>
 
 * [&#x1F4D6; Digit Recognition Models #1](https://www.kaggle.com/olgabelitskaya/digit-recognition-models-1)
 
@@ -42,8 +47,8 @@
 
 * [&#x1F4D6; House Prices: Advanced Regression Techniques](https://www.kaggle.com/olgabelitskaya/regressors)
 
-
-## Style Transfer & Other Visualization Exercises
+</details><details>
+<summary> Style Transfer & Other Visualization Exercises</summary>
 
 * [&#x1F4D6; Mixed Styles](https://www.kaggle.com/olgabelitskaya/mixed-styles)
 
@@ -54,6 +59,8 @@
 * [&#x1F4D6; Plotting Exercises](https://www.kaggle.com/olgabelitskaya/plotting-exercises)
 
 * [&#x1F4D6; Plotting Exercises 2](https://www.kaggle.com/olgabelitskaya/plotting-exercises-2)
+
+</details>
 
 ## Image Recognition
 
