@@ -99,4 +99,6 @@
 * https://www.kaggle.com/olgabelitskaya/image-generator-3
 * https://www.kaggle.com/olgabelitskaya/image-generator-4
 
-<details>
+</details>
+
+<br>[⬆ Back to top](#Contents)
