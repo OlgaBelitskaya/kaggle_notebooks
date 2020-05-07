@@ -87,6 +87,12 @@
 
 * [&#x1F4D6; Multi-Label Classification Models](https://www.kaggle.com/olgabelitskaya/multi-label-classification-models)
 
+* [&#x1F4D6; Brand Recognition](https://www.kaggle.com/olgabelitskaya/brand-recognition)
+
+* [&#x1F4D6; Product Recognition](https://www.kaggle.com/olgabelitskaya/product-recognition)
+
+* [&#x1F4D6; Style Images. Keras Applications](https://www.kaggle.com/olgabelitskaya/style-images-keras-applications)
+
 </details>
 
 ---
@@ -94,10 +100,10 @@
 <details>
 <summary> Image Generators</summary>
 
-* https://www.kaggle.com/olgabelitskaya/image-generator
-* https://www.kaggle.com/olgabelitskaya/image-generator-2
-* https://www.kaggle.com/olgabelitskaya/image-generator-3
-* https://www.kaggle.com/olgabelitskaya/image-generator-4
+* [&#x1F4D6; Image Generator](https://www.kaggle.com/olgabelitskaya/image-generator)
+* [&#x1F4D6; Image Generator 2](https://www.kaggle.com/olgabelitskaya/image-generator-2)
+* [&#x1F4D6; Image Generator 3](https://www.kaggle.com/olgabelitskaya/image-generator-3)
+* [&#x1F4D6; Image Generator 4](https://www.kaggle.com/olgabelitskaya/image-generator-4)
 
 </details>
 
