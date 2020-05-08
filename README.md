@@ -93,6 +93,8 @@
 
 * [&#x1F4D6; Style Images. Keras Applications](https://www.kaggle.com/olgabelitskaya/style-images-keras-applications)
 
+* [&#x1F4D6; ](https://www.kaggle.com/olgabelitskaya/preprocessing-of-style-images-r)
+
 </details>
 
 ---
@@ -101,10 +103,33 @@
 <summary> Image Generators</summary>
 
 * [&#x1F4D6; Image Generator](https://www.kaggle.com/olgabelitskaya/image-generator)
+
 * [&#x1F4D6; Image Generator 2](https://www.kaggle.com/olgabelitskaya/image-generator-2)
+
 * [&#x1F4D6; Image Generator 3](https://www.kaggle.com/olgabelitskaya/image-generator-3)
+
 * [&#x1F4D6; Image Generator 4](https://www.kaggle.com/olgabelitskaya/image-generator-4)
 
 </details>
+
+---
+
+<details>
+<summary> Cookbooks</summary>
+
+* [&#x1F4D6; Sklearn PyR](https://www.kaggle.com/olgabelitskaya/sklearn-pyr)
+
+* [&#x1F4D6; SQL Cookbook R](https://www.kaggle.com/olgabelitskaya/sql-cookbook-r)
+
+* [&#x1F4D6; SQL Cookbook](https://www.kaggle.com/olgabelitskaya/sql-cookbook)
+
+* [&#x1F4D6; SQL Cookbook 2](https://www.kaggle.com/olgabelitskaya/sql-cookbook2)
+
+* [&#x1F4D6; Sklearn Cookbook](https://www.kaggle.com/olgabelitskaya/sklearn-cookbook)
+
+* [&#x1F4D6; Keras Cookbook](https://www.kaggle.com/olgabelitskaya/keras-cookbook)
+
+</details>
+
 
 <br>[⬆ Back to top](#Contents)
