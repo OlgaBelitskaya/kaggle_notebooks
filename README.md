@@ -20,6 +20,8 @@
 
 <br/></details>
 
+---
+
 <br/><details><summary>Preprocessed Datasets</summary>
 
 #### [&#x1F4D6; &nbsp; SVHN Preprocessed Fragments](https://www.kaggle.com/olgabelitskaya/svhn-preproccessed-fragments)
@@ -39,12 +41,16 @@
 
 <br/></details>
 
+---
+
 <br/><details><summary>Datasets for Skill Improving</summary>
 
 #### [&#x1F4D6; &nbsp; Image Examples for Mixed Styles](https://www.kaggle.com/olgabelitskaya/image-examples-for-mixed-styles)
 #### [&#x1F4D6; &nbsp; Text Examples for Processing](https://www.kaggle.com/olgabelitskaya/text-examples-for-processing)
 
 <br/></details>
+
+---
 
 # &#x1F4D1; &nbsp; [Notebooks](https://www.kaggle.com/olgabelitskaya/notebooks)
 
