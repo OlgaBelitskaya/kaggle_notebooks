@@ -46,7 +46,7 @@
 <br/><details><summary>Datasets for Skill Improving</summary>
 
 #### [&#x1F4D6; &nbsp; Image Examples for Mixed Styles](https://www.kaggle.com/olgabelitskaya/image-examples-for-mixed-styles)
-#### [&#x1F4D6; &nbsp; Text Examples for Processing](https://www.kaggle.com/olgabelitskaya/text-examples-for-processing)
+#### [&#x1F4D6; &nbsp; Text Examples for Processing & Classification](https://www.kaggle.com/olgabelitskaya/text-examples-for-processing-classification)
 
 <br/></details>
 
