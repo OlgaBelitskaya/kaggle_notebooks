@@ -144,6 +144,124 @@
 
 ---
 
+<br/><details><summary>TensorFlow Practice</summary>
+    
+* [📓 PreTrained TFModels](https://www.kaggle.com/olgabelitskaya/pretrained-tfmodels)
+
+
+* [📓 TensorFlow Practice](https://www.kaggle.com/olgabelitskaya/tensorflow-practice)
+
+
+* [📓 TensorFlow Practice 2](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-2)
+
+
+* [📓 TensorFlow Practice 3](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-3)
+
+
+* [📓 TensorFlow Practice 4](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-4)
+
+
+* [📓 TensorFlow Practice 5](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-5)
+
+
+* [📓 TensorFlow Practice 6](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-6)
+
+
+* [📓 TensorFlow Practice 7](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-7)
+
+
+* [📓 TensorFlow Practice 8](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-8)
+
+
+* [📓 TensorFlow Practice 9](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-9)
+
+
+* [📓 TF Hub Practice](https://www.kaggle.com/olgabelitskaya/tf-hub-practice)
+
+
+* [📓 TF Hub Practice 2](https://www.kaggle.com/olgabelitskaya/tf-hub-practice-2)
+
+
+* [📓 TF Model Practice](https://www.kaggle.com/olgabelitskaya/tf-model-practice)
+
+
+* [📓 TF Model Practice 2](https://www.kaggle.com/olgabelitskaya/tf-model-practice-2)
+
+<br/></details>
+
+---
+
+<br/><details><summary>PyTorch Practice</summary>
+
+* [📓 PyTorch Practice](https://www.kaggle.com/olgabelitskaya/pytorch-practice)
+
+
+* [📓 PyTorch Practice 2](https://www.kaggle.com/olgabelitskaya/pytorch-practice-2)
+
+
+* [📓 PyTorch Practice 3](https://www.kaggle.com/olgabelitskaya/pytorch-practice-3)
+
+
+* [📓 PyTorch Practice 4](https://www.kaggle.com/olgabelitskaya/pytorch-practice-4)
+
+
+* [📓 PyTorch Practice 5](https://www.kaggle.com/olgabelitskaya/pytorch-practice-5)
+
+
+* [📓 PyTorch Practice 6](https://www.kaggle.com/olgabelitskaya/pytorch-practice-6)
+
+
+* [📓 PyTorch Practice 7](https://www.kaggle.com/olgabelitskaya/pytorch-practice-7)
+
+
+* [📓 PyTorch Practice 8](https://www.kaggle.com/olgabelitskaya/pytorch-practice-8)
+
+
+* [📓 PyTorch Practice 9](https://www.kaggle.com/olgabelitskaya/pytorch-practice-9)
+
+
+* [📓 PyTorch Practice 10](https://www.kaggle.com/olgabelitskaya/pytorch-practice-10)
+
+
+* [📓 PyTorch Practice 11](https://www.kaggle.com/olgabelitskaya/pytorch-practice-11)
+
+
+* [📓 PyTorch Practice 12](https://www.kaggle.com/olgabelitskaya/pytorch-practice-12)
+
+
+* [📓 PyTorch Practice 13](https://www.kaggle.com/olgabelitskaya/pytorch-practice-13)
+
+
+* [📓 PyTorch Practice 14](https://www.kaggle.com/olgabelitskaya/pytorch-practice-14)
+
+
+* [📓 PyTorch Practice 15](https://www.kaggle.com/olgabelitskaya/pytorch-practice-15)
+
+
+* [📓 PyTorch Practice 16](https://www.kaggle.com/olgabelitskaya/pytorch-practice-16)
+
+
+* [📓 PyTorch Practice 17](https://www.kaggle.com/olgabelitskaya/pytorch-practice-17)
+
+
+* [📓 PyTorch Practice 18](https://www.kaggle.com/olgabelitskaya/pytorch-practice-18)
+
+
+* [📓 PyTorch Practice 19](https://www.kaggle.com/olgabelitskaya/pytorch-practice-19)
+
+
+* [📓 PyTorch Practice 20](https://www.kaggle.com/olgabelitskaya/pytorch-practice-20)
+
+
+* [📓 PyTorch Practice 21](https://www.kaggle.com/olgabelitskaya/pytorch-practice-21)
+
+
+* [📓 PyTorch Practice 22](https://www.kaggle.com/olgabelitskaya/pytorch-practice-22)
+
+<br/></details>
+
+---
+
 <br/><details><summary>Synthetic Data Building</summary>
     
 * [📓 Artificial Images](https://www.kaggle.com/olgabelitskaya/artificial-images)
