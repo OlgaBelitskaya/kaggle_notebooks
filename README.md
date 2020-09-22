@@ -71,10 +71,16 @@
 [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/titanic-survival-exploration) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_titanic.html)
 #### Predicting Boston Housing Prices
 [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/boston-housing-prices)
-#### House Prices: Advanced Regression Techniques
+#### Customer Segments
+[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/customer-segments)
+#### Regressors
 [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/regressors) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_house.html)
 #### SVHN Digit Recognition
 [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/svhn-digit-recognition)
+#### NNET R
+[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/nnet-r)
+#### Dog Breeds
+[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/dog-breeds)
 
 <br/></details>
 
@@ -82,32 +88,74 @@
 
 <br/><details><summary>My Own Projects</summary>
 
-#### The Dataset of Flower Images
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/the-dataset-of-flower-images) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_flowers.html)
-#### The Dataset of Flower Images (R)
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/the-dataset-of-flower-images-r)
-#### Flower Images. Keras Applications
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/flower-images-keras-applications)
-#### Handwritten Letters
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/handwritten-letters) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_letters.html)
-#### Handwritten Letters (R)
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/handwritten-letters-r)
-#### Preprocessing of Style Color Images
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/preprocessing-of-style-color-images)
-#### Multi-Label Classification Models
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/multi-label-classification-models)
-#### Brand Recognition
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/brand-recognition)
-#### Product Recognition
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/product-recognition)
-#### Style Images. Keras Applications
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/style-images-keras-applications)
-#### Preprocessing of Pattern Images
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/preprocessing-of-pattern-images)
-#### Mixed Styles 
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/mixed-styles) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_mixed_styles.html)
-#### Sberbank Russian Housing Market 
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/sberbank-russian-housing-market) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_sberbank.html)
+#### Classification of Artificial Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-artificial-images)
+#### Grayscaled Pictogram Data  => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/grayscaled-pictogram-data)
+#### Pictogram & Photo Classification => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/pictogram-photo-classification)
+#### Pictogram Classification R => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/pictogram-classification-r)
+#### Images of Horse Breeds => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/images-of-horse-breeds)
+#### Classification of Horse Breeds' Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-horse-breeds-images) 
+#### Images of Tomato Cultivars => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/images-of-tomato-cultivars)
+#### Classification of Tomato Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-tomato-images)
+#### Classification of Tomato Images 2 => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-tomato-images-2)
+
+---
+    
+#### The Dataset of Flower Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/the-dataset-of-flower-images) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_flowers.html)
+#### The Dataset of Flower Images (R) => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/the-dataset-of-flower-images-r)
+#### Flower Images. Keras Applications => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/flower-images-keras-applications)
+#### Flower Color Images 2 => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/flower-color-images-2)
+
+---
+
+#### Handwritten Letters => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/handwritten-letters) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_letters.html)
+#### Handwritten Letters (R) => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/handwritten-letters-r)
+#### Grayscaled Handwritten Letters => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/grayscaled-handwritten-letters)
+#### Grayscaled Handwritten Letters (R) => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/grayscaled-handwritten-letters)
+#### Handwritten Letters. Keras Applications => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/handwritten-letters-keras-applications)
+#### Handwritten Letters. Keras Applications 2 => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/handwritten-letters-keras-applications-2)
+#### Handwritten Letters and Backgrounds => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/handwritten-letters-and-backgrounds)
+#### Noise Reduction for Multi-Label Classification => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/noise-reduction-for-multi-label-classification)
+
+---
+
+#### Preprocessing of Style Color Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/preprocessing-of-style-color-images)
+#### Multi-Label Classification Models => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/multi-label-classification-models)
+#### Brand Recognition => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/brand-recognition)
+#### Product Recognition => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/product-recognition)
+#### Style Images. Keras Applications => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/style-images-keras-applications)
+
+---
+
+#### Preprocessing of Pattern Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/preprocessing-of-pattern-images)
+#### Mixed Styles => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/mixed-styles) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_mixed_styles.html)
+#### Mixed Styles 2 (R) => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/mixed-styles-2) 
+#### Styling Experiments => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/styling-experiments)
+
+---
+
+#### Sberbank Russian Housing Market => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/sberbank-russian-housing-market) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_sberbank.html)
+
+---
+
+#### Classification of Sketches => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-sketches)
+#### Classification of Sketches 2 => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-sketches-2) 
+
+<br/></details>
+
+---
+
+<br/><details><summary>Synthetic Data Building</summary>
+    
+* [📓 Artificial Images](https://www.kaggle.com/olgabelitskaya/artificial-images)
+
+
+* [📓 Synthetic Data](https://www.kaggle.com/olgabelitskaya/synthetic-data)
+
+
+* [📓 Synthetic Data 2](https://www.kaggle.com/olgabelitskaya/synthetic-data-2)
+
+
+* [📓 Synthetic Data 3](https://www.kaggle.com/olgabelitskaya/synthetic-data-3)
 
 <br/></details>
 
@@ -126,6 +174,13 @@
 
 * [📓 Image Generator 4](https://www.kaggle.com/olgabelitskaya/image-generator-4)
 
+
+* [📓 Image Generator 5](https://www.kaggle.com/olgabelitskaya/image-generator-5)
+
+
+* [📓 TF DCGAN](https://www.kaggle.com/olgabelitskaya/tf-dcgan)
+
+
 <br/></details>
 
 ---
@@ -133,6 +188,12 @@
 <br/><details><summary> Cookbooks</summary>
 
 * [📓 Sklearn PyR](https://www.kaggle.com/olgabelitskaya/sklearn-pyr)
+
+
+* [📓 Sklearn Clusters](https://www.kaggle.com/olgabelitskaya/sklearn-clusters)
+
+
+* [📓 Sklearn Practice](https://www.kaggle.com/olgabelitskaya/sklearn-practice)
 
 
 * [📓 SQL Cookbook R](https://www.kaggle.com/olgabelitskaya/sql-cookbook-r)
@@ -151,6 +212,50 @@
 
 
 * [📓 OpenCV Cookbook](https://www.kaggle.com/olgabelitskaya/opencv-cookbook)
+
+
+* [📓 ML Basics](https://www.kaggle.com/olgabelitskaya/ml-basics)
+
+
+* [📓 ML Basics 2](https://www.kaggle.com/olgabelitskaya/ml-basics-2)
+
+
+* [📓 ML Basics 3](https://www.kaggle.com/olgabelitskaya/ml-basics-3)
+
+<br/></details>
+
+---
+
+<br/><details><summary>PASSNYC Series</summary>
+
+* [📓 PASSNYC. Data Exploration R](https://www.kaggle.com/olgabelitskaya/passnyc-data-exploration-r)
+
+
+* [📓 PASSNYC. Data Exploration](https://www.kaggle.com/olgabelitskaya/passnyc-data-exploration)
+
+
+* [📓 PASSNYC. Numeric and Categorical Variables R](https://www.kaggle.com/olgabelitskaya/passnyc-numeric-and-categorical-variables-r)
+
+
+* [📓 PASSNYC. Numeric and Categorical Variables](https://www.kaggle.com/olgabelitskaya/passnyc-numeric-and-categorical-variables)
+
+
+* [📓 PASSNYC. Comparing All Districts with 5th District](https://www.kaggle.com/olgabelitskaya/passnyc-comparing-all-districts-with-5th-district)
+
+
+* [📓 PASSNYC. Regression Methods](https://www.kaggle.com/olgabelitskaya/passnyc-regression-methods)
+
+
+* [📓 PASSNYC. Neural Networks](https://www.kaggle.com/olgabelitskaya/passnyc-neural-networks)
+
+
+* [📓 PASSNYC. Neural Networks 2](https://www.kaggle.com/olgabelitskaya/passnyc-neural-networks-2)
+
+
+* [📓 PASSNYC. 32 School Districts and D5. Part 2](https://www.kaggle.com/olgabelitskaya/passnyc-32-school-districts-and-d5-part-2)
+
+
+* [📓 PASSNYC. Summary](https://www.kaggle.com/olgabelitskaya/passnyc-summary)
 
 <br/></details>
 
@@ -171,6 +276,18 @@
 
 
 * [📓 Plotting Exercises R 2](https://www.kaggle.com/olgabelitskaya/plotting-exercises-r-2)
+
+
+* [📓 Plotting Exercises R 3](https://www.kaggle.com/olgabelitskaya/plotting-exercises-r-3)
+
+
+* [📓 Coordinates](https://www.kaggle.com/olgabelitskaya/coordinates)
+
+
+* [📓 Charts RJS](https://www.kaggle.com/olgabelitskaya/charts-rjs)
+
+
+* [📓 Plotly PyJs](https://www.kaggle.com/olgabelitskaya/plotly-pyjs)
 
 <br/></details>
 
