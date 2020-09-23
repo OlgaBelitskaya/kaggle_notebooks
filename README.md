@@ -81,6 +81,8 @@
 [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/nnet-r)
 #### Dog Breeds
 [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/dog-breeds)
+#### Tf Flowers
+[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/tf-flowers)
 
 <br/></details>
 
@@ -92,6 +94,10 @@
 #### Grayscaled Pictogram Data  => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/grayscaled-pictogram-data)
 #### Pictogram & Photo Classification => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/pictogram-photo-classification)
 #### Pictogram Classification R => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/pictogram-classification-r)
+
+---
+
+#### Photo Data Processing => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/photo-data-processing)
 #### Images of Horse Breeds => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/images-of-horse-breeds)
 #### Classification of Horse Breeds' Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-horse-breeds-images) 
 #### Images of Tomato Cultivars => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/images-of-tomato-cultivars)
@@ -119,6 +125,7 @@
 ---
 
 #### Preprocessing of Style Color Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/preprocessing-of-style-color-images)
+#### Preprocessing of Style Images (R) => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/preprocessing-of-style-images-r)
 #### Multi-Label Classification Models => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/multi-label-classification-models)
 #### Brand Recognition => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/brand-recognition)
 #### Product Recognition => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/product-recognition)
@@ -127,6 +134,8 @@
 ---
 
 #### Preprocessing of Pattern Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/preprocessing-of-pattern-images)
+#### Traditional Patterns. Decor Recognition => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/traditional-patterns-decor-recognition)
+#### Traditional Patterns. Keras Applications => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/traditional-patterns-keras-applications)
 #### Mixed Styles => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/mixed-styles) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_mixed_styles.html)
 #### Mixed Styles 2 (R) => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/mixed-styles-2) 
 #### Styling Experiments => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/styling-experiments)
@@ -134,11 +143,17 @@
 ---
 
 #### Sberbank Russian Housing Market => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/sberbank-russian-housing-market) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_sberbank.html)
+#### Financial Indicators=> [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/financial-indicators)
 
 ---
 
 #### Classification of Sketches => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-sketches)
 #### Classification of Sketches 2 => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-sketches-2) 
+
+---
+
+#### Parts of Speech => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/parts-of-speech)
+#### Child-Adult Emotions => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/child-adult-emotions)
 
 <br/></details>
 
@@ -279,6 +294,17 @@
 
 ---
 
+<br/><details><summary>Geo Data</summary>
+
+* [📓 External GeoData](https://www.kaggle.com/olgabelitskaya/external-geodata)
+
+
+* [📓 GeoData Exploring](https://www.kaggle.com/olgabelitskaya/geodata-exploring)
+
+<br/></details>
+
+---
+
 <br/><details><summary> Image Generators</summary>
 
 * [📓 Image Generator](https://www.kaggle.com/olgabelitskaya/image-generator)
@@ -303,7 +329,7 @@
 
 ---
 
-<br/><details><summary> Cookbooks</summary>
+<br/><details><summary>Cookbooks</summary>
 
 * [📓 Sklearn PyR](https://www.kaggle.com/olgabelitskaya/sklearn-pyr)
 
@@ -327,6 +353,9 @@
 
 
 * [📓 Keras Cookbook](https://www.kaggle.com/olgabelitskaya/keras-cookbook)
+
+
+* [📓 Sequential Data](https://www.kaggle.com/olgabelitskaya/sequential-data)
 
 
 * [📓 OpenCV Cookbook](https://www.kaggle.com/olgabelitskaya/opencv-cookbook)
@@ -379,7 +408,7 @@
 
 ---
 
-<br/><details><summary> Visualization Exercises</summary>
+<br/><details><summary>Visualization Exercises</summary>
 
 * [📓 Plotting Exercises](https://www.kaggle.com/olgabelitskaya/plotting-exercises)
 
