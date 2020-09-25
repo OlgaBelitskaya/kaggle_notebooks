@@ -1,5 +1,7 @@
 # &#x1F4D1; &nbsp; [Kaggle Profile](https://www.kaggle.com/olgabelitskaya)
 
+[![Click](https://olgabelitskaya.github.io/badge_awesome.svg)](https://olgabelitskaya.github.io/README.html)
+
 ## Content
 
 
