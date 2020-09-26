@@ -85,6 +85,14 @@
 [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/dog-breeds)
 #### Tf Flowers
 [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/tf-flowers)
+#### Classification of Sketches 
+[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-sketches)
+#### Classification of Sketches 2
+[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-sketches-2)
+#### Quick, Draw! Doodle Recognition OpenCV1
+[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/quick-draw-doodle-recognition-opencv1)
+#### Quick, Draw! Doodle Recognition OpenCV2
+[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/quick-draw-doodle-recognition-opencv2)
 
 <br/></details>
 
