@@ -182,17 +182,6 @@
 
 ---
 
-<br/><details><summary>Geo Data</summary>
-
-* [📓 External GeoData](https://www.kaggle.com/olgabelitskaya/external-geodata)
-
-
-* [📓 GeoData Exploring](https://www.kaggle.com/olgabelitskaya/geodata-exploring)
-
-<br/></details>
-
----
-
 <br/><details><summary> Image Generators</summary>
 
 * [📓 Image Generator](https://www.kaggle.com/olgabelitskaya/image-generator)
@@ -291,38 +280,6 @@
 
 
 * [📓 PASSNYC. Summary](https://www.kaggle.com/olgabelitskaya/passnyc-summary)
-
-<br/></details>
-
----
-
-<br/><details><summary>Visualization Exercises</summary>
-
-* [📓 Plotting Exercises](https://www.kaggle.com/olgabelitskaya/plotting-exercises)
-
-
-* [📓 Plotting Exercises 2](https://www.kaggle.com/olgabelitskaya/plotting-exercises-2)
-
-
-* [📓 Plotting Exercises 3](https://www.kaggle.com/olgabelitskaya/plotting-exercises-3)
-
-
-* [📓 Plotting Exercises R](https://www.kaggle.com/olgabelitskaya/plotting-exercises-r)
-
-
-* [📓 Plotting Exercises R 2](https://www.kaggle.com/olgabelitskaya/plotting-exercises-r-2)
-
-
-* [📓 Plotting Exercises R 3](https://www.kaggle.com/olgabelitskaya/plotting-exercises-r-3)
-
-
-* [📓 Coordinates](https://www.kaggle.com/olgabelitskaya/coordinates)
-
-
-* [📓 Charts RJS](https://www.kaggle.com/olgabelitskaya/charts-rjs)
-
-
-* [📓 Plotly PyJs](https://www.kaggle.com/olgabelitskaya/plotly-pyjs)
 
 <br/></details>
 
