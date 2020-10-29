@@ -165,53 +165,6 @@
 
 ---
 
-<br/><details><summary>TensorFlow Practice</summary>
-    
-* [📓 PreTrained TFModels](https://www.kaggle.com/olgabelitskaya/pretrained-tfmodels)
-
-
-* [📓 TensorFlow Practice](https://www.kaggle.com/olgabelitskaya/tensorflow-practice)
-
-
-* [📓 TensorFlow Practice 2](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-2)
-
-
-* [📓 TensorFlow Practice 3](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-3)
-
-
-* [📓 TensorFlow Practice 4](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-4)
-
-
-* [📓 TensorFlow Practice 5](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-5)
-
-
-* [📓 TensorFlow Practice 6](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-6)
-
-
-* [📓 TensorFlow Practice 7](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-7)
-
-
-* [📓 TensorFlow Practice 8](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-8)
-
-
-* [📓 TensorFlow Practice 9](https://www.kaggle.com/olgabelitskaya/tensorflow-practice-9)
-
-
-* [📓 TF Hub Practice](https://www.kaggle.com/olgabelitskaya/tf-hub-practice)
-
-
-* [📓 TF Hub Practice 2](https://www.kaggle.com/olgabelitskaya/tf-hub-practice-2)
-
-
-* [📓 TF Model Practice](https://www.kaggle.com/olgabelitskaya/tf-model-practice)
-
-
-* [📓 TF Model Practice 2](https://www.kaggle.com/olgabelitskaya/tf-model-practice-2)
-
-<br/></details>
-
----
-
 <br/><details><summary>Synthetic Data Building</summary>
     
 * [📓 Artificial Images](https://www.kaggle.com/olgabelitskaya/artificial-images)
