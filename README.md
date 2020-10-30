@@ -248,40 +248,5 @@
 
 <br/></details>
 
----
-
-<br/><details><summary>PASSNYC Series</summary>
-
-* [📓 PASSNYC. Data Exploration R](https://www.kaggle.com/olgabelitskaya/passnyc-data-exploration-r)
-
-
-* [📓 PASSNYC. Data Exploration](https://www.kaggle.com/olgabelitskaya/passnyc-data-exploration)
-
-
-* [📓 PASSNYC. Numeric and Categorical Variables R](https://www.kaggle.com/olgabelitskaya/passnyc-numeric-and-categorical-variables-r)
-
-
-* [📓 PASSNYC. Numeric and Categorical Variables](https://www.kaggle.com/olgabelitskaya/passnyc-numeric-and-categorical-variables)
-
-
-* [📓 PASSNYC. Comparing All Districts with 5th District](https://www.kaggle.com/olgabelitskaya/passnyc-comparing-all-districts-with-5th-district)
-
-
-* [📓 PASSNYC. Regression Methods](https://www.kaggle.com/olgabelitskaya/passnyc-regression-methods)
-
-
-* [📓 PASSNYC. Neural Networks](https://www.kaggle.com/olgabelitskaya/passnyc-neural-networks)
-
-
-* [📓 PASSNYC. Neural Networks 2](https://www.kaggle.com/olgabelitskaya/passnyc-neural-networks-2)
-
-
-* [📓 PASSNYC. 32 School Districts and D5. Part 2](https://www.kaggle.com/olgabelitskaya/passnyc-32-school-districts-and-d5-part-2)
-
-
-* [📓 PASSNYC. Summary](https://www.kaggle.com/olgabelitskaya/passnyc-summary)
-
-<br/></details>
-
 
 <br>[⬆ Back to top](#Content)
