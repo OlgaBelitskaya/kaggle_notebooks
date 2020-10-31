@@ -56,43 +56,6 @@
 
 # &#x1F4D1; &nbsp; [Notebooks](https://www.kaggle.com/olgabelitskaya/notebooks)
 
-<br/><details><summary>Common Training</summary>
-
-#### Digit Recognition Models #1  
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/digit-recognition-models-1) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_digits.html)
-#### Digit Recognition Models #2 
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/digit-recognition-models-2) &nbsp;
-[Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_digits.html)
-#### Digit Recognition Models #3
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/digit-recognition-models-3)
-#### Digit Recognition Models R
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/digit-recognition-models-r)
-#### Digit Recognition Models R 2
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/digit-recognition-models-r-2)
-#### Titanic Survival Exploration
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/titanic-survival-exploration) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_titanic.html)
-#### Predicting Boston Housing Prices
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/boston-housing-prices)
-#### Customer Segments
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/customer-segments)
-#### Regressors
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/regressors) &nbsp; [Web Page &#x1F310;](https://olgabelitskaya.github.io/kaggle_house.html)
-#### SVHN Digit Recognition
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/svhn-digit-recognition)
-#### NNET R
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/nnet-r)
-#### Dog Breeds
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/dog-breeds)
-#### Tf Flowers
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/tf-flowers)
-#### Quick, Draw! Doodle Recognition OpenCV1
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/quick-draw-doodle-recognition-opencv1)
-#### Quick, Draw! Doodle Recognition OpenCV2
-[📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/quick-draw-doodle-recognition-opencv2)
-
-<br/></details>
-
----
 
 <br/><details><summary>My Own Projects</summary>
 
@@ -153,11 +116,6 @@
 
 ---
 
-#### Classification of Sketches => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-sketches)
-#### Classification of Sketches 2 => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-sketches-2) 
-
----
-
 #### Parts of Speech => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/parts-of-speech)
 #### Child-Adult Emotions => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/child-adult-emotions)
 
@@ -201,50 +159,6 @@
 
 * [📓 TF DCGAN](https://www.kaggle.com/olgabelitskaya/tf-dcgan)
 
-
-<br/></details>
-
----
-
-<br/><details><summary>Cookbooks</summary>
-
-* [📓 Sklearn PyR](https://www.kaggle.com/olgabelitskaya/sklearn-pyr)
-
-
-* [📓 Sklearn Clusters](https://www.kaggle.com/olgabelitskaya/sklearn-clusters)
-
-
-* [📓 Sklearn Practice](https://www.kaggle.com/olgabelitskaya/sklearn-practice)
-
-
-* [📓 SQL Cookbook R](https://www.kaggle.com/olgabelitskaya/sql-cookbook-r)
-
-
-* [📓 SQL Cookbook](https://www.kaggle.com/olgabelitskaya/sql-cookbook)
-
-
-* [📓 SQL Cookbook 2](https://www.kaggle.com/olgabelitskaya/sql-cookbook2)
-
-
-* [📓 Sklearn Cookbook](https://www.kaggle.com/olgabelitskaya/sklearn-cookbook)
-
-
-* [📓 Keras Cookbook](https://www.kaggle.com/olgabelitskaya/keras-cookbook)
-
-
-* [📓 Sequential Data](https://www.kaggle.com/olgabelitskaya/sequential-data)
-
-
-* [📓 OpenCV Cookbook](https://www.kaggle.com/olgabelitskaya/opencv-cookbook)
-
-
-* [📓 ML Basics](https://www.kaggle.com/olgabelitskaya/ml-basics)
-
-
-* [📓 ML Basics 2](https://www.kaggle.com/olgabelitskaya/ml-basics-2)
-
-
-* [📓 ML Basics 3](https://www.kaggle.com/olgabelitskaya/ml-basics-3)
 
 <br/></details>
 
