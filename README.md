@@ -121,46 +121,5 @@
 
 <br/></details>
 
----
-
-<br/><details><summary>Synthetic Data Building</summary>
-    
-* [📓 Artificial Images](https://www.kaggle.com/olgabelitskaya/artificial-images)
-
-
-* [📓 Synthetic Data](https://www.kaggle.com/olgabelitskaya/synthetic-data)
-
-
-* [📓 Synthetic Data 2](https://www.kaggle.com/olgabelitskaya/synthetic-data-2)
-
-
-* [📓 Synthetic Data 3](https://www.kaggle.com/olgabelitskaya/synthetic-data-3)
-
-<br/></details>
-
----
-
-<br/><details><summary> Image Generators</summary>
-
-* [📓 Image Generator](https://www.kaggle.com/olgabelitskaya/image-generator)
-
-
-* [📓 Image Generator 2](https://www.kaggle.com/olgabelitskaya/image-generator-2)
-
-
-* [📓 Image Generator 3](https://www.kaggle.com/olgabelitskaya/image-generator-3)
-
-
-* [📓 Image Generator 4](https://www.kaggle.com/olgabelitskaya/image-generator-4)
-
-
-* [📓 Image Generator 5](https://www.kaggle.com/olgabelitskaya/image-generator-5)
-
-
-* [📓 TF DCGAN](https://www.kaggle.com/olgabelitskaya/tf-dcgan)
-
-
-<br/></details>
-
 
 <br>[⬆ Back to top](#Content)
