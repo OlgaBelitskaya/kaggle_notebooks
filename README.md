@@ -67,6 +67,7 @@
 ---
 
 #### Photo Data Processing => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/photo-data-processing)
+#### Child-Adult Emotions => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/child-adult-emotions)
 #### Images of Horse Breeds => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/images-of-horse-breeds)
 #### Classification of Horse Breeds' Images => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/classification-of-horse-breeds-images) 
 #### Images of Tomato Cultivars => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/images-of-tomato-cultivars)
@@ -117,7 +118,6 @@
 ---
 
 #### Parts of Speech => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/parts-of-speech)
-#### Child-Adult Emotions => [📓 Kaggle Jupyter Notebook](https://www.kaggle.com/olgabelitskaya/child-adult-emotions)
 
 <br/></details>
 
